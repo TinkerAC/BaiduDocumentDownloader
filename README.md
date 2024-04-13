@@ -12,5 +12,6 @@
 
 ```bash
 downloader=BaiduDocumentDownloader()
-downloader.downloader("")
+downloader.downloader(直接传入url或者input)
+
 
